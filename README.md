@@ -14,7 +14,7 @@ To run the program, download all files inside the PacMan Exercise folder. Once d
 
 At this current time, I do not intend to add anything else to this program, unless requested.
 
-Licence
+**Licence**
 
 MIT License
 
