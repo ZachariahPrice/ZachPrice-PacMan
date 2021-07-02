@@ -1,4 +1,4 @@
-# ZachPrice-PacMan
+# ZachPrice-PacManExercise
 
 **Hi and welcome to my Pacman exercise**
 
