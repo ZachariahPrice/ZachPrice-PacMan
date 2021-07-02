@@ -1,16 +1,16 @@
 # ZachPrice-PacMan
 
-Hi and welcome to my Pacman exercise
+**Hi and welcome to my Pacman exercise**
 
 What the pacman exercise is, is a lot of pacmen that bounce around the screen. On the screen there are two buttons, add pacman and start game. The "add pacman' button, spawns more pacmen and you can spawn as many as you want. The start button makes the pacmen move and also increases their speed. This exercise was a fun little exercise that we did during my course.
 
 Warning: adding too many pacmen and increasing their speed by some margin can cause your web broswer to crash
 
-How to run
+**How to run**
 
 To run the program, download all files inside the PacMan Exercise folder. Once downloaded, double click the index file. In the top left corner, there are two buttons, "Add Pacman" and "Start Game". The add pacman button, will spawn a picture of a pacman, you can add as many as you want. The start game button will make the pacmen move randomly around the screen, clicking the start game button again can increase their speed.
 
-Roadmap
+**Roadmap**
 
 At this current time, I do not intend to add anything else to this program, unless requested.
 
